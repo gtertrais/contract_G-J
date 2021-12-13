@@ -1,0 +1,127 @@
+{
+    "publicKey": "0x04c1208d21ac643526383088cd0d7d5af40aa78641efb2d53600796ab4398c3c2556a9de3423b7f9e883c7c50b2fb2d6fcaae8b8cfd01742b93ffd041959fac3f5",
+    "metadataUri": "https://ipfs.gaspardetjoseph.fr/ipfs/Qmans8nLXhFXTNHRzyYwDoH7uqVRjv63JYNsoMkUrGnD3E",
+    "contractAddress": "0x4f1536b8fc15Ec9D9177b9F27198883b96bCb257",
+    "metadataSchema": {
+        "metadata": [
+            {
+                "name": "id",
+                "type": "text"
+            },
+            {
+                "name": "name",
+                "type": "text"
+            },
+            {
+                "name": "description",
+                "type": "text"
+            },
+            {
+                "name": "image",
+                "type": "text"
+            },
+            {
+                "name": "external_url",
+                "type": "text"
+            },
+            {
+                "name": "editor",
+                "type": "text"
+            },
+            {
+                "name": "domain",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "collection",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "minting_date",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "type",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "rarity",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "creator",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "season",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "number_of_mints",
+                "type": "enum",
+                "filterable": true
+            },
+            {
+                "name": "mouth",
+                "type": "enum",
+                "filterable": false
+            },
+            {
+                "name": "hat",
+                "type": "enum",
+                "filterable": false
+            },
+            {
+                "name": "eye",
+                "type": "enum",
+                "filterable": false
+            },
+            {
+                "name": "beauty_spot",
+                "type": "enum",
+                "filterable": false
+            },
+            {
+                "name": "ear",
+                "type": "enum",
+                "filterable": false
+            }
+        ]
+    }
+ }
+
+
+ //SPDX-License-Identifier: UNLICENSED
+
+ https://huf98wuq06.execute-api.eu-west-3.amazonaws.com/prod/id/1
+
+
+ Drop 1:
+
+ {
+    "id": "1",
+    "name": "test",
+    "description": "",
+    "image": "",
+    "external_url": "",
+    "editor": "",
+    "category": "",
+    "collection": "",
+    "rarity": "",
+    "maker": "",
+    "season": "",
+    "bouche": "",
+    "chapeau": "",
+    "oeil": "",
+    "mouche": ""
+}
+
+
+Drop Zero
